@@ -43,7 +43,7 @@ public class Tester {
                // System.out.println(aa);
                 //System.out.println("This is Rectangle");
                 
-                Rectangle b = new Rectangle(date,12.14,11.5);
+                Rectangle b = new Rectangle(date,12.14,11.6);
                // GeometricObject bb=b.compareTo(b);
                 //System.out.println(bb);
                 System.out.print("\nnow lets test on two different Circle\n");
